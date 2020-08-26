@@ -5,9 +5,9 @@
 
 /*올라오는 애니메이션*/
 #MacPro{
-	animation-duration:1s;
+	animation-duration:0s;
 	animation-name:MacPro; 
-	animation-delay:1s;
+	animation-delay:3s;
 	animation-fill-mode:forwards;
 	opacity:0; 
 	position:relative;}
@@ -51,7 +51,7 @@ main {padding-top: 34px;}
 	margin:auto;
 	text-align:center;
 	font-size: 60px;
-	color:rgb(0, 255, 115);
+	color:rgb(0, 0, 0);
 	letter-spacing:-5px;
 	line-height: 1.17188;}
 
